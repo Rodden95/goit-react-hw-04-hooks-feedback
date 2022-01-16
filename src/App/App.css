@@ -1,0 +1,17 @@
+.container {
+  margin: 20px;
+  margin-top: 50px;
+  padding: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 400px !important; 
+  box-shadow: 0 0 5px 2px rgba(0, 0, 0, 0.295);
+  transition: box-shadow 250ms linear;
+  border-radius: 5px;
+  /* height: 400px; */
+}
+.container:hover{
+  box-shadow: 0 0 12px 5px rgba(0, 0, 0, 0.295);
+  transition: box-shadow 250ms linear;
+}

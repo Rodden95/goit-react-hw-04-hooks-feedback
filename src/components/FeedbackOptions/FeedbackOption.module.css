@@ -1,0 +1,10 @@
+.btn:not(:last-child) {
+  margin-right: 5px;
+
+}
+.btn {
+  padding: 10 25px;
+}
+.container_btn {
+  margin: 40px 0 ;
+}
